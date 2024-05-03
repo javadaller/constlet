@@ -4,10 +4,9 @@ const display=document.querySelector('#display')
 
 36
 
-
-
 ['Tomates','Doritos','PQ'] = ['pouet','pif','paf']
 
 console.log(['Tomates','Doritos','PQ'])
+
 // EXEMPLE 2
 
